@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list"
+        android:title="@string/list"
+        android:icon="@drawable/list_selector" />
+
+    <item
+        android:id="@+id/menu_kalender"
+        android:title="@string/kalender"
+        android:icon="@drawable/kalender_selector" />
+
+    <item
+        android:id="@+id/menu_alarm"
+        android:title="@string/alarm"
+        android:icon="@drawable/alarm_selector" />
+
+    <item
+        android:id="@+id/menu_saya"
+        android:title="@string/saya"
+        android:icon="@drawable/saya_selector" />
+</menu>
